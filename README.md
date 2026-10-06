@@ -1,7 +1,7 @@
 # 7pz2
 Завдання 1
 <img width="443" height="175" alt="image" src="https://github.com/user-attachments/assets/98f645bc-845f-4891-b650-9e2ed1ba94e5" />
-#include <iostream>
+''#include <iostream>
 #include <forward_list>
 #include <string>
 
@@ -19,4 +19,4 @@ int main()
     }
 
     return 0;
-}
+}''
