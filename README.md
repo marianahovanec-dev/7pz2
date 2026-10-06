@@ -104,7 +104,7 @@ int main()
     return 0;
 }
 ```
-#🎄 Завдання 4 
+# 🎄 Завдання 4 
 ## <img width="1632" height="505" alt="image" src="https://github.com/user-attachments/assets/77ad5a7d-793a-4a33-8a2b-f62b7319256b" />
 
 ```cpp
